@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "Lyn Charisse Salig",
+    "description": "A dedicated technology enthusiast eager to fully harness the power of full stack development and make a meaningful impact in the digital domain.",
+    "image": "profilepic.jpg",
+    "bio": "As a student pursuing a career in software engineering, my objective is to immerse myself in the world of technology and become a proficient software engineer. I am driven by a genuine passion for creating innovative solutions and pushing the boundaries of what is possible in the digital realm. With a solid foundation in computer science and a thirst for knowledge, I am eager to learn and adapt to emerging technologies, programming languages, and development methodologies. My goal is to contribute to the development of cutting-edge software applications that have a tangible impact on people's lives, whether it be through enhancing efficiency, improving user experiences, or addressing societal challenges.  I aspire to become a skilled software engineer who can contribute to a team's success, drive technological advancements, and make a positive difference in the world of software development.",
+    "contactmessage": "Get in Touch",
+    "email": "jeloolimac@gmail.com",
+    "phone": "+639-939-693-639",
+    "github": "https://www.linkedin.com/in/lensalig/",
+    "project": "https://youtu.be/-3RkJXYD3Ao?si=Vd_eZHz0ae-cxUPl",
+    "address": {
+      "city": "Cebu City",
+      "country": "Philippines",
+      "zip": "6000"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1AZbB2VniGPiniHxuEmEU50OXcV-yCPZQ/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/lyn.charisse.salig",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lensalig/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/lensalig?igsh=ZWVob3NrdjU0YzVr",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/lensalig",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "With expertise in HTML, CSS, JavaScript, Bootstrap, UX/UI design, ReactJS, MySQL, Java, Spring Boot, REST API, and proficiency in Visual Studio Code, Eclipse JEE, and Spring Tool Suite 3, I am skilled in creating captivating websites, developing scalable applications, designing intuitive user experiences, and managing efficient databases. My proficiency enables me to deliver high-quality solutions that provide exceptional user experiences.",
+    "education": [
+      {
+        "school": "Lithan EduClaas",
+        "degree": "Higher Diploma in Software Engineering",
+        "graduated": "September 2022 - Present"
+      },
+      {
+        "school": "University of Cebu - Banilad Campus",
+        "degree": "Bachelor of Science in Information Technology",
+        "graduated": "August 2022 - Present"
+      },
+      {
+        "school": "University of Cebu - PRI",
+        "degree": "Secondary School",
+        "graduated": "August 2021 - June 2022"
+      }
+    ],
+    "work": [
+      {
+        "company": "HIP",
+        "title": "Frond-End Developer Intern",
+        "years": "January 2024 - March 2024",
+        "description": "Making dashboard page\n Uses wordpress\n Making UI  \n Web Development"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "79%"
+      },
+      {
+        "name": "UX / UI Design",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "81%"
+      },
+      {
+        "name": "MySQL",
+        "level": "74%"
+      },
+      {
+        "name": "JAVA",
+        "level": "70%"
+      },
+      {
+        "name": "Spring Boot",
+        "level": "75%"
+      },
+      {
+        "name": "REST API",
+        "level": "80%"
+      },
+      {
+        "name": "Visual Studio Code",
+        "level": "91%"
+      },
+      {
+        "name": "Eclipse JEE",
+        "level": "89%"
+      },
+      {
+        "name": "Spring Tool Suite 3",
+        "level": "80%"
+      }
+    ]
+  }
+}

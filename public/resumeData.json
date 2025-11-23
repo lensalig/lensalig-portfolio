@@ -5,8 +5,8 @@
     "image": "profilepic.jpg",
     "bio": "As a student pursuing a career in software engineering, my objective is to immerse myself in the world of technology and become a proficient software engineer. I am driven by a genuine passion for creating innovative solutions and pushing the boundaries of what is possible in the digital realm. With a solid foundation in computer science and a thirst for knowledge, I am eager to learn and adapt to emerging technologies, programming languages, and development methodologies. My goal is to contribute to the development of cutting-edge software applications that have a tangible impact on people's lives, whether it be through enhancing efficiency, improving user experiences, or addressing societal challenges.  I aspire to become a skilled software engineer who can contribute to a team's success, drive technological advancements, and make a positive difference in the world of software development.",
     "contactmessage": "Get in Touch",
-    "email": "jeloolimac@gmail.com",
-    "phone": "+639-939-693-639",
+    "email": "lctsalig@gmail.com",
+    "phone": "+639-695-3587-90",
     "github": "https://www.linkedin.com/in/lensalig/",
     "project": "https://youtu.be/-3RkJXYD3Ao?si=Vd_eZHz0ae-cxUPl",
     "address": {
@@ -68,7 +68,19 @@
         "company": "HIP",
         "title": "Frond-End Developer Intern",
         "years": "January 2024 - March 2024",
-        "description": "Making dashboard page\n Uses wordpress\n Making UI  \n Web Development"
+        "description": "Developed a highly interactive dashboard page designed to enhance user experience and improve navigation and data visualization.\n Utilized WordPress as the primary content management system, focusing on custom theme development and plugin integration to meet specific functional requirements.\n Collaborated closely with the UI/UX design team to implement user interface concepts, ensuring a seamless and responsive design across multiple devices.  \n Participated in the full lifecycle of web development, from initial concept and design through development, testing, optimization, and deployment, ensuring high-quality deliverables."
+      },
+      {
+        "company": "Real Inbound Consulting",
+        "title": "Software Engineering Intern",
+        "years": "May 2024 - December 2024",
+        "description": "Explored GenAI tools and developed internal web-based automation solutions. \n Enhance the RIC website by adding features like WhatsApp chat and redesigning the blog Weebly CMS). \n Designed UI/UX mockups for Grantbil to support user research and validation, and developed a new website for Grantbil with basic SaaS functionality."
+      },
+      {
+        "company": "Real Inbound Consulting",
+        "title": "Operations Executive",
+        "years": "January 2024 - October 2024",
+        "description": "Support managers with operational tasks, utilize automation tools to enhance efficiency, and take ownership of special projects as assigned"
       }
     ],
     "skills": [

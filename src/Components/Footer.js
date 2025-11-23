@@ -23,7 +23,7 @@ class Footer extends Component {
               <ul className="social-links">{networks}</ul>
 
               <ul className="copyright">
-                <li>&copy; Copyright 2023 LCTS | Lensalig</li>
+                <li>&copy; Copyright 2025 LCTS | Lensalig</li>
                 <li>
                   Design by{" "}
                   <a title="Styleshout" href="https://github.com/lensalig">

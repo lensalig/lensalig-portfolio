@@ -74,7 +74,7 @@
         "company": "Real Inbound Consulting",
         "title": "Operations Executive",
         "years": "January 2025 - October 2025",
-        "description": "SCoordinated operational tasks and supported management in improving workflows and resolving process bottlenecks. \nUtilized automation tools and digital solutions to reduce repetitive tasks and improve team efficiency. \nPrepared status reports, monitored ongoing initiatives, and coordinated cross-functional activities to support business operations."
+        "description": "Coordinated operational tasks and supported management in improving workflows and resolving process bottlenecks. \nUtilized automation tools and digital solutions to reduce repetitive tasks and improve team efficiency. \nPrepared status reports, monitored ongoing initiatives, and coordinated cross-functional activities to support business operations."
       },
       {
         "company": "Real Inbound Consulting",
@@ -91,59 +91,31 @@
       }
     
     ],
-    "skills": [
-      {
-        "name": "HTML",
-        "level": "90%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "70%"
-      },
-      {
-        "name": "Bootstrap",
-        "level": "79%"
-      },
-      {
-        "name": "UX / UI Design",
-        "level": "85%"
-      },
-      {
-        "name": "ReactJS",
-        "level": "81%"
-      },
-      {
-        "name": "MySQL",
-        "level": "74%"
-      },
-      {
-        "name": "JAVA",
-        "level": "70%"
-      },
-      {
-        "name": "Spring Boot",
-        "level": "75%"
-      },
-      {
-        "name": "REST API",
-        "level": "80%"
-      },
-      {
-        "name": "Visual Studio Code",
-        "level": "91%"
-      },
-      {
-        "name": "Eclipse JEE",
-        "level": "89%"
-      },
-      {
-        "name": "Spring Tool Suite 3",
-        "level": "80%"
-      }
-    ]
+   
+"webDevelopmentSkills": [
+  { "name": "HTML", "level": "10%" },
+  { "name": "CSS", "level": "100%" },
+  { "name": "JavaScript", "level": "850%" },
+  { "name": "ReactJS", "level": "85%" },
+  { "name": "Bootstrap", "level": "80%" },
+  { "name": "Java", "level": "80%" },
+  { "name": "Spring Boot", "level": "75%" },
+  { "name": "MySQL", "level": "75%" },
+  { "name": "REST API", "level": "80%" },
+  { "name": "UI/UX Design", "level": "85%" }
+],
+"virtualAssistantSkills": [
+  { "name": "Shopify Store Management", "level": "85%" },
+  { "name": "WordPress Management", "level": "80%" },
+  { "name": "Google Workspace", "level": "90%" },
+  { "name": "Canva & Graphic Design", "level": "85%" },
+  { "name": "AI Tools & Prompt Engineering", "level": "85%" },
+  { "name": "E-commerce Operations", "level": "85%" },
+  { "name": "Product Listing Management", "level": "90%" },
+  { "name": "Administrative Support", "level": "90%" },
+  { "name": "Social Media Management", "level": "85%" },
+  { "name": "Workflow Automation", "level": "80%" }
+]
+
   }
 }

@@ -50,12 +50,12 @@
       {
         "school": "Lithan EduClaas",
         "degree": "Higher Diploma in Software Engineering",
-        "graduated": "September 2022 - Present"
+        "graduated": "September 2022 - 2026"
       },
       {
         "school": "University of Cebu - Banilad Campus",
         "degree": "Bachelor of Science in Information Technology",
-        "graduated": "August 2022 - Present"
+        "graduated": "August 2022 - 2026"
       },
       {
         "school": "University of Cebu - PRI",
@@ -64,6 +64,12 @@
       }
     ],
     "work": [
+       {
+        "company": "Doneverse",
+        "title": "Virtual Assistant",
+        "years": "December 2025 - September 2026",
+        "description": "Support managers with operational tasks, utilize automation tools to enhance efficiency, and take ownership of special projects as assigned"
+      },
       {
         "company": "Real Inbound Consulting",
         "title": "Operations Executive",

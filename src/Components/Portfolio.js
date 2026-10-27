@@ -45,8 +45,8 @@ class Portfolio extends Component {
                       fontFamily: "'opensans', sans-serif",
                     }}
                   >
-                    A web-based application that allows users to find employment
-                    opportunities and submit job applications.
+                    A web-based application that allows users to find employment opportunities and submit 
+                    job applications with ease and efficiency.
                   </p>
                   <Space wrap>
                     <Button

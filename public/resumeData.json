@@ -6,7 +6,7 @@
     "bio": "I have a background in software engineering, web development, and virtual assistance, with skills in building websites, managing online stores, and supporting daily business operations. I am adaptable, organized, and comfortable using different tools and technologies to get things done. I take pride in my work, pay attention to details, and focus on finding practical solutions that help businesses run smoothly and grow.",
     "contactmessage": "Get in Touch",
     "email": "lctsalig@gmail.com",
-    "phone": "+63-969-535-8790",
+    "phone": "+63-969-535-90",
     "github": "https://www.linkedin.com/in/lensalig/",
     "project": "https://youtu.be/-3RkJXYD3Ao?si=Vd_eZHz0ae-cxUPl",
     "address": {
@@ -90,14 +90,14 @@
 
 "skills": [
   { "name": "HTML & CSS", "level": "90%" },
-  { "name": "JavaScript & ReactJS", "level": "75%" },
-  { "name": "Java & Spring Boot", "level": "75%" },
-  { "name": "MySQL & REST API", "level": "75%" },
-  { "name": "UI/UX Design", "level": "85%" },
   { "name": "WordPress Management", "level": "80%" },
+  { "name": "JavaScript & ReactJS", "level": "75%" },
   { "name": "Shopify Store Management", "level": "85%" },
+    { "name": "Java & Spring Boot", "level": "75%" },
   { "name": "Canva & Content Creation", "level": "85%" },
+    { "name": "MySQL & REST API", "level": "75%" },
   { "name": "AI Tools & Workflow Automation", "level": "85%" },
+    { "name": "UI/UX Design", "level": "85%" },
   { "name": "E-commerce & Administrative Support", "level": "90%" }
 ]
 

@@ -92,7 +92,7 @@
     
     ],
    
-"webDevelopmentSkills": [
+"skills": [
   { "name": "HTML", "level": "10%" },
   { "name": "CSS", "level": "100%" },
   { "name": "JavaScript", "level": "850%" },
@@ -104,7 +104,7 @@
   { "name": "REST API", "level": "80%" },
   { "name": "UI/UX Design", "level": "85%" }
 ],
-"virtualAssistantSkills": [
+"skills": [
   { "name": "Shopify Store Management", "level": "85%" },
   { "name": "WordPress Management", "level": "80%" },
   { "name": "Google Workspace", "level": "90%" },

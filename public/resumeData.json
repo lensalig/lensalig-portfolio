@@ -92,29 +92,18 @@
     
     ],
    
+
 "skills": [
-  { "name": "HTML", "level": "10%" },
-  { "name": "CSS", "level": "100%" },
-  { "name": "JavaScript", "level": "850%" },
-  { "name": "ReactJS", "level": "85%" },
-  { "name": "Bootstrap", "level": "80%" },
-  { "name": "Java", "level": "80%" },
-  { "name": "Spring Boot", "level": "75%" },
-  { "name": "MySQL", "level": "75%" },
-  { "name": "REST API", "level": "80%" },
-  { "name": "UI/UX Design", "level": "85%" }
-],
-"skills": [
-  { "name": "Shopify Store Management", "level": "85%" },
+  { "name": "HTML & CSS", "level": "90%" },
+  { "name": "JavaScript & ReactJS", "level": "75%" },
+  { "name": "Java & Spring Boot", "level": "75%" },
+  { "name": "MySQL & REST API", "level": "75%" },
+  { "name": "UI/UX Design", "level": "85%" },
   { "name": "WordPress Management", "level": "80%" },
-  { "name": "Google Workspace", "level": "90%" },
-  { "name": "Canva & Graphic Design", "level": "85%" },
-  { "name": "AI Tools & Prompt Engineering", "level": "85%" },
-  { "name": "E-commerce Operations", "level": "85%" },
-  { "name": "Product Listing Management", "level": "90%" },
-  { "name": "Administrative Support", "level": "90%" },
-  { "name": "Social Media Management", "level": "85%" },
-  { "name": "Workflow Automation", "level": "80%" }
+  { "name": "Shopify Store Management", "level": "85%" },
+  { "name": "Canva & Content Creation", "level": "85%" },
+  { "name": "AI Tools & Workflow Automation", "level": "85%" },
+  { "name": "E-commerce & Administrative Support", "level": "90%" }
 ]
 
   }

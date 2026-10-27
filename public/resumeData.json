@@ -1,12 +1,12 @@
 {
   "main": {
     "name": "Lyn Charisse Salig",
-    "description": "A dedicated technology enthusiast eager to fully harness the power of full stack development and make a meaningful impact in the digital domain.",
+    "description": "A tech savvy professional skilled in web development, e-commerce management, and virtual assistance, helping businesses build their online presence and work more efficiently.",
     "image": "profilepic.jpg",
-    "bio": "As a student pursuing a career in software engineering, my objective is to immerse myself in the world of technology and become a proficient software engineer. I am driven by a genuine passion for creating innovative solutions and pushing the boundaries of what is possible in the digital realm. With a solid foundation in computer science and a thirst for knowledge, I am eager to learn and adapt to emerging technologies, programming languages, and development methodologies. My goal is to contribute to the development of cutting-edge software applications that have a tangible impact on people's lives, whether it be through enhancing efficiency, improving user experiences, or addressing societal challenges.  I aspire to become a skilled software engineer who can contribute to a team's success, drive technological advancements, and make a positive difference in the world of software development.",
+    "bio": "I have a background in software engineering, web development, and virtual assistance, with skills in building websites, managing online stores, and supporting daily business operations. I am adaptable, organized, and comfortable using different tools and technologies to get things done. I take pride in my work, pay attention to details, and focus on finding practical solutions that help businesses run smoothly and grow.",
     "contactmessage": "Get in Touch",
     "email": "lctsalig@gmail.com",
-    "phone": "+639-695-3587-90",
+    "phone": "+63-969-535-8790",
     "github": "https://www.linkedin.com/in/lensalig/",
     "project": "https://youtu.be/-3RkJXYD3Ao?si=Vd_eZHz0ae-cxUPl",
     "address": {
@@ -15,17 +15,12 @@
       "zip": "6000"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1rvyau-SrhDneG32UQgcnZAJx6ZG9AjDd/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1KoPGbK4eUZNfSnvD6U9pdCkPnOup5XNg/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/lyn.charisse.salig",
+        "url": "https://www.facebook.com/itsnotklei",
         "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
@@ -34,7 +29,7 @@
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/lensalig?igsh=ZWVob3NrdjU0YzVr",
+        "url": "https://www.instagram.com/lentobiass",
         "className": "fa fa-instagram"
       },
       {
@@ -45,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "With expertise in HTML, CSS, JavaScript, Bootstrap, UX/UI design, ReactJS, MySQL, Java, Spring Boot, REST API, and proficiency in Visual Studio Code, Eclipse JEE, and Spring Tool Suite 3, I am skilled in creating captivating websites, developing scalable applications, designing intuitive user experiences, and managing efficient databases. My proficiency enables me to deliver high-quality solutions that provide exceptional user experiences.",
+    "skillmessage": "I combine technical expertise, creativity, and organizational skills to develop user-friendly websites, manage digital platforms, and support efficient business operations. With a focus on problem-solving, productivity, and continuous learning, I strive to deliver reliable digital solutions and valuable administrative support that help businesses grow.",
     "education": [
       {
         "school": "Lithan EduClaas",
